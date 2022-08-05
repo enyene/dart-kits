@@ -14,6 +14,7 @@ void func(work, experience) {
   print('you are a ${work} with  ${experience} years experience');
 }
 
+// function with a return value of type int
 int add(num1, num2) {
   return max(num1, num2);
 }
